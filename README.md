@@ -12,7 +12,7 @@ pour installer les dependences.
 
 Ensuite, il va falloir se rendre dans le dossier " config " puis dans le fichier " development.json "
 Ce fichier json affiche 2 settings : assetsBaseUrl et port
-Il faut remplacer 'adresse ip' par votre adresse ip et faire attention que votre port 9000 ne soit pas déjà utilisé
+Il faut remplacer "[yourIpAddress]" par votre adresse ip et faire attention que votre port 9000 ne soit pas déjà utilisé
 
 # Utilisation
 
