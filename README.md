@@ -16,7 +16,7 @@ Il faut remplacer "[yourIpAddress]" par votre adresse ip et faire attention que 
 
 # Utilisation
 
-node index.js
+"node index.js" dans le terminale.
 Si tout fonctionne, la console devrait afficher ce message :
 " Server started on port 9000... "
 
